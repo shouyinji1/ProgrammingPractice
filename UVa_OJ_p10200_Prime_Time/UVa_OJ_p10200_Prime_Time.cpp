@@ -8,8 +8,8 @@ int isPrime(int n){
 }
 int main(void){
 	int a,b;
-	int is_prime[10001]={1};
-	for(int i=1;i<=10000;i++)
+	int is_prime[10001];
+	for(int i=0;i<=10000;i++)
 		is_prime[i]=isPrime(i*i+i+41);
 	while(scanf("%d %d",&a,&b) != EOF){
 		int count=0;
