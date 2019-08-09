@@ -1,0 +1,1 @@
+初等数论，思路参考《Elementary Number Theory and its applications 6ed, Kenneth H. Rosen, 2011》第十三章开头
